@@ -16,3 +16,26 @@
 ### Pinned
 
 - **[portfolio](https://github.com/vivekrajput796/portfolio)** — my site, including a retrieval-augmented "ask AI about me" feature built with Claude + Voyage AI embeddings
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,redux,graphql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,docker,aws,git,github,vite,webpack,jest,eslint" />
+</p>
+
+<hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=vivekrajput796&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Vivek's GitHub Stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=vivekrajput796&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Vivek's GitHub Streak" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekrajput796&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Vivek's Most Used Languages" />
+</div>
+
+<hr>
